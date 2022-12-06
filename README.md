@@ -84,4 +84,5 @@ Here are some ideas to get you started:
 Blog I primarily used to copy from: https://www.sitepoint.com/github-profile-readme/ 
 Mammoth crowdsources guide/resources/examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme#minimalistic-
 Emoji Codes Cheatsheet: https://gist.github.com/rxaviers/7360908
+Icons: https://www.iconfinder.com/search?q=sql , https://devicon.dev/
 -->
