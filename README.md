@@ -19,14 +19,22 @@
 </div> -->
 
 <h1>
-  hey there
+  Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+I'm currently a Data Scientist @PlayStation in London, UK.
+
+<b>:round_pushpin: Location</b>: Nottingham & London, UK<br>
+<b>:office: Current Job</b>: Data Scientist @PlayStation<br>
+<b>:clock1030: Previous Roles</b>: Data Analyst, Analytics Engineer, Data Scientist<br>
+<b>:star: Domains</b>: Data, Machine Learning, Visualisation, Programming, Public Speaking
+
+I am always open to new opportunities and projects both professionally and casually, please reach out via my socials above or via email <a href = "mailto: liam.j.gower@bath.edu">liam.j.gower@bath.edu</a>.
 
 ---
 
-### :hammer_and_wrench: Languages
+### :earth_americas: Languages
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -36,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>&nbsp;
   <img src="images/sql.png" title="SQL" width="40" height="40"/>&nbsp;
 </div>
 
@@ -73,4 +80,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Article that helped me build this profile: https://www.sitepoint.com/github-profile-readme/ -->
+<!-- Pages to help build a good GH Profile
+Blog I primarily used to copy from: https://www.sitepoint.com/github-profile-readme/ 
+Mammoth crowdsources guide/resources/examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme#minimalistic-
+Emoji Codes Cheatsheet: https://gist.github.com/rxaviers/7360908
+-->
