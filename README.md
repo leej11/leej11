@@ -9,7 +9,7 @@
   <a href="www.youtube.com/c/liamgower">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="www.liamgower.com">
+  <a href="https://www.liamgower.com">
     <img src="https://img.shields.io/badge/-My%20Website-blueviolet?style=for-the-badge&logo=appveyor?logoColor=white" alt="My Webite Badge"/>
   </a>
 </div>
